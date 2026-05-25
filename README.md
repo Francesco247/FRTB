@@ -20,11 +20,11 @@ Key challenges addressed in this project include:
 # Methods and Strategies
 
 We compute the VaR and sVaR with several different approaches:
-1. Statistical Bootstrap Approach
-2. Gaussian Monte Carlo Approach
-3. Weighted Historical Simulation
-4. Parametric Gaussian Approach
+1. Statistical Bootstrap 
+2. Gaussian Monte Carlo 
+3. Weighted Historical Simulation 
+4. Parametric Gaussian 
 
 # Acknowledgements
 
-I thank my colleagues Susanna Gao who worked with me on this project.
+I thank my colleague Susanna Gao who worked with me on this project.
